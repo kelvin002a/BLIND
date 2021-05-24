@@ -1,0 +1,6 @@
+0 MALE
+1 Female
+2 Bike
+3 Bycycle
+4 Car
+5 Green Light
