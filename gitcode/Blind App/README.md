@@ -3,7 +3,7 @@
 ## Overview
 
 This is an example application for [TensorFlow Lite](https://tensorflow.org/lite)
-on Android. It uses
+on Android. It uses.
 [Image classification](https://www.tensorflow.org/lite/models/image_classification/overview)
 to continuously classify whatever it sees from the device's back camera.
 Inference is performed using the TensorFlow Lite Java API. The demo app
